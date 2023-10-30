@@ -1,0 +1,32 @@
+*{
+    padding: 30px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.QR{
+    background-color: grey;
+    border: 2px solid ;
+    border-radius: 2rem;
+}
+
+.qr{
+}
+
+.qr img{
+    align-items: center;
+    border-radius: 5rem;
+    margin-left: 205px;
+}
+
+.qr h2{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.qr p{
+    text-align: center;
+    font-weight: bold;
+    padding: 15px;
+}
